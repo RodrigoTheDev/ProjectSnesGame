@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${env:PVSNESLIB_HOME}/pvsneslib/include",
+        "${env:PVSNESLIB_HOME}/devkitsnes/include"
+      ],
+      "defines": [],
+      "cStandard": "c11",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
