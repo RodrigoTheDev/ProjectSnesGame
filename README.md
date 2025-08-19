@@ -1,6 +1,6 @@
 # Como Compilar e executar o código para pvsneslib
 
-## requistos
+## Requistos
 - pvsneslib: https://github.com/alekmaul/pvsneslib
 - msys2: https://www.msys2.org/
 - qualquer emulador de snes que seja capaz de rodar o arquivo .sfc
@@ -15,7 +15,7 @@
 
 ## Comandos no terminal
 
-1. no terminal do **MYSYS2 UCRT64**, execute:
+1. No terminal do **MYSYS2 UCRT64**, execute:
 `pacman -Syu`
 `pacman -S --needed make git python3`
 
